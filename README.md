@@ -31,7 +31,3 @@ Biology reacts to the unique environment of spaceflight through diverse response
 [All factors at replicate level:](https://static-content.springer.com/esm/art%3A10.1038%2Fs41526-023-00247-6/MediaObjects/41526\_2023\_247\_MOESM2\_ESM.xlsx) from Barker et al., (2023)
 
 {% embed url="https://static-content.springer.com/esm/art%3A10.1038%2Fs41526-023-00247-6/MediaObjects/41526_2023_247_MOESM2_ESM.xlsx" %}
-
-### &#x20;<a href="#id-8wymhtnromfi" id="id-8wymhtnromfi"></a>
-
-### Introduction: <a href="#p15snynu8csi" id="p15snynu8csi"></a>
