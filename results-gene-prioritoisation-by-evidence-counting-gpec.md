@@ -1,16 +1,14 @@
 ---
 description: >-
-  The addition of coexpression and protein interaction data can identify
-  functional clusters
+  Metascape analysis enable the addition of coexpression and protein interaction
+  data can identify functional clusters.
 ---
 
-# Results Gene Prioritoisation by Evidence Counting (GPEC) "metascape"
+# Results Gene Prioritoisation by Evidence Counting (GPEC)
 
-**Kinase (cpk4) regulation of macromolecule production**
+Metascape MCODE GPEC analysis was utilized to characterize "feature 6" associated with "Plasmodesmata". The analysis revealed that MCODE cluster 1 is significantly enriched for protein serine/threonine kinase activity, primarily through cpk4, suggesting its crucial involvement in regulating macromolecule synthesis. This is further linked to the observed enrichment in Pyruvate metabolism and primary Carbon metabolism within MCODE clusters 3 and 4. Additionally, MCODE cluster 6, highlighted for its involvement in protein binding and degradation, is predominantly composed of the Cullin-RING ubiquitin ligase complex. Collectively, the comprehensive MCODE network demonstrates significant enrichment for Intracellular transport and the Establishment of localization within the cell, alongside the predominant presence of the Cullin-RING ubiquitin ligase complex. These findings collectively suggest the presence of a sophisticated protein regulatory mechanism, pivotal in maintaining cell polarity and intracellular transport, potentially influenced by spaceflight-associated stress factors.
 
-**Meta-scape GPEC analysis used to characterize “feature 6” / “Plasmodesmata”.**
-
-<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption><p><strong>Supplementary Figure XXXXXX1:</strong> Gene Prioritisation Evidence Counting (GPEC) of MCODE interaction network analysis of feature 6 contained 222 loci (supplementary table X) performed using metascape. MCODE identified 7 functional nodes.</p></figcaption></figure>
 
 **Supplementary Figure XXXXXX1:** Gene Prioritisation Evidence Counting (GPEC) of MCODE interaction network analysis of feature 6 contained 222 loci (supplementary table X) performed using metascape. MCODE identified 7 functional nodes.
 

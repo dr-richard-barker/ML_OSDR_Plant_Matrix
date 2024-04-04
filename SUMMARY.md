@@ -7,7 +7,7 @@
 * [Genetic results](genetic-results.md)
 * [Pathway results](pathway-results.md)
 * [Combined features regulate the plant stress response pathways](combined-features-regulate-the-plant-stress-response-pathways.md)
-* [Results Gene Prioritoisation by Evidence Counting (GPEC) "metascape"](results-gene-prioritoisation-by-evidence-counting-gpec-metascape.md)
+* [Results Gene Prioritoisation by Evidence Counting (GPEC)](results-gene-prioritoisation-by-evidence-counting-gpec.md)
 * [Discussion](discussion/README.md)
   * [Feature 0: Hormonal signal integration through a TOPLESS Regulated](discussion/feature-0-hormonal-signal-integration-through-a-topless-regulated.md)
   * [Feature #1: “Tissue-specific respiratory adaptation”](discussion/feature-1-tissue-specific-respiratory-adaptation.md)
