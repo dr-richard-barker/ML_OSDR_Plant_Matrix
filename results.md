@@ -10,6 +10,16 @@ description: Variation in model performance for different factors
 
 The machine learning models produced 102 quantitative assessment metrics of distinct features within the model along with values describing the model’s mean performance and confidence values. Assessing these metrics (supplementary table XX2) shows that the precision, Mathew Correlation Coefficient (MCC) provides the “true positive rate”, it's sensitivity is adjusted to provide the average precision that performed best, this provides certainty in the model's performance and is equivalent to chi-square statistics for a 2 x 2 contingency table. It is also interesting to note that the 2 factor groups that consistently had poor accuracy scores in each class of the model were the “ambient air” and “control” classes (ranging from 0.44-0.55). This is likely due to the variability associated with these classes as they are meta-data values that exist within each experimental design regardless of the tissue or factor under investigation.
 
+#### AUC and ROC curves. <a href="#qqyt93cj2qoh" id="qqyt93cj2qoh"></a>
+
+The JADBio ML platform incorporates sophisticated quality control metrics, including AUC (Area Under the Curve) and ROC (Receiver Operating Characteristic) curves, for the evaluation of binary classification models (Tsamardinos et al., 2022). These metrics are pivotal in discerning the predictive capability of such models.
+
+The AUC metric, with a value range of 0 to 1, is a critical indicator of a model's proficiency in distinguishing between positive and negative classes. Optimal models demonstrate an AUC approaching 1, signifying superior performance, whereas an AUC of 0.5 implies no better discriminative ability than random chance. Notably, the AUC is unaffected by scale variations and remains consistent across different classification thresholds, providing a robust measure of a model's ranking capacity rather than its absolute predictions.
+
+In parallel, the ROC curve graphically represents a model’s performance across varying thresholds, plotting the True Positive Rate (TPR) against the False Positive Rate (FPR). This analytical tool aids in evaluating a model's effectiveness in class separation, essentially distinguishing ‘signal’ from ‘noise’. The area under the ROC curve thus quantifies the overall success of binary classification algorithms.
+
+Examination of the model’s AUC and ROC curves, as depicted in **Figure X1**, reveals an overfitting to the training datasets. This indicates a potential limitation in the model’s applicability to external datasets, albeit highlighting significant response nodes within the training sets themselves.
+
 (A)
 
 ![](.gitbook/assets/0.png)
