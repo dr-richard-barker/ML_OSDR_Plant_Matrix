@@ -1,6 +1,10 @@
+---
+description: 'Kneminer Knowledge Network Analysis: Molecular Connections in Plant Physiology'
+---
+
 # Genetic results
 
-## Kneminer Knowledge Network Analysis: Molecular Connections in Plant Physiology
+## Analysis of core 10 genes in precision model
 
 **Figure XXX3:** Knowledge network connecting the top 10 features identified by the JADBio precision model. Network size: 173 Nodes and 185 Edges. This analysis included 10 loci AT1G64940, AT3G02020, AT1G11570, AT5G57420, AT1G02220, AT2G38530, AT2G26400, AT3G18260, AT5G07190, AT2G41610.
 
@@ -12,9 +16,7 @@
 
 ### Molecular Connections
 
-This document elucidates the intricate molecular connections between a select group of loci: IAA33, ARD3, NAC003, CYP89A6, ATS3, AK3, RTNLB9, DICE, NTL, and LP2. These loci have been identified for their pivotal roles in various physiological processes such as aspartate phosphorylation, elongation, salicylic acid-dependent systemic resistance, and nuclear transport in plants.
-
-The investigation into the molecular interactions among different loci facilitates a deeper understanding of plant physiological processes. The loci IAA33 is directly linked to ARF10, establishing a critical connection in the regulatory networks controlling plant growth and stress responses.
+Knowlege network analysis identifies a intricate molecular connections between a select group of loci: IAA33, ARD3, NAC003, CYP89A6, ATS3, AK3, RTNLB9, DICE, NTL, and LP2. These loci have been identified for their pivotal roles in various physiological processes such as aspartate phosphorylation, elongation, salicylic acid-dependent systemic resistance, and nuclear transport in plants. This investigation now links these molecular interactions and related plant physiological processes to the plant adaptive response to spaceflght environment. The loci IAA33 is directly linked to ARF10, establishing a critical connection in the regulatory networks controlling plant growth and stress responses.
 
 #### Aspartate Phosphorylation and Elongation
 
@@ -31,15 +33,13 @@ The investigation into the molecular interactions among different loci facilitat
 * **DICE** and **NTL** are central to the processes of nuclear transport, indicating a crucial role in cellular regulation and signaling.
 * **LP2**, identified as a lipid transfer protein, may influence membrane dynamics and thus indirectly affect nuclear transport processes.
 
-### Conclusion
+###
 
-The Kneminer knowledge network reveals a complex web of molecular interactions involving IAA33, ARD3, NAC003, CYP89A6, ATS3, AK3, RTNLB9, DICE, NTL, and LP2. These connections underscore the multifaceted roles these loci play in aspartate phosphorylation, elongation, salicylic acid-dependent systemic resistance, and nuclear transport. Understanding these connections not only enriches our comprehension of plant physiology but also opens new avenues for genetic manipulation to enhance plant resilience and growth.
-
-
+The Kneminer knowledge network reveals a web of molecular interactions involving IAA33, ARD3, NAC003, CYP89A6, ATS3, AK3, RTNLB9, DICE, NTL, and LP2. These connections underscore the multifaceted roles these loci play in aspartate phosphorylation, elongation, salicylic acid-dependent systemic resistance, and nuclear transport in resposne to space flight related stressors. Understanding these connections not only enriches our comprehension of plant physiology but also opens new avenues for genetic manipulation to enhance plant resilience to growth in orbit.
 
 
 
-## Analysis of Key Genes in Plant Biology: A Network Perspective
+## Analysis of Key Genes in feature 2
 
 **Figure XXXX4:** Feature 2 summary, Knetminer network size: 169 Nodes and 237 Edges. This analysis included 10 loci;AT4G09570, AT2G18600, AT4G28190, AT2G47680, AT5G56590, AT4G11740, AT1G69700, AT5G48020, AT3G51280, and AT5G03780.
 
@@ -81,7 +81,7 @@ Add light picture or diagram to highlight either CPK/ calcium signaling or gluca
 
 {% embed url="https://knetminer.com/beta/knetspace/network/20833315-8604-45d0-8a1b-5776ce62922d" %}
 
-The Kneminer knowledge network offers a comprehensive mapping of genetic interactions and phenotypic outcomes, focusing on the interconnection between PIT3 and its effects on cytokinin-related phenotypes. This analysis extends to include several lesser-known loci, which, despite the scarcity of detailed information, are recognized for their involvement in critical biological processes. These include oxidative stress response, disease resistance mechanisms, modulation of flowering time, and the presence of unidentified functional domains within membrane structures. The loci of interest are ribonuclease T2, TN7, F19G14.4, F13F21.10, and MJB24.15.
+The Kneminer knowledge network reveals interactions and interconnection between PIT3 and its effects on cytokinin-related phenotypes. This analysis extends to include several lesser-known loci, which, despite the scarcity of detailed information, are recognized for their involvement in critical biological processes. These loci are known to be involved in biological processes including oxidative stress response, disease resistance mechanisms and modulation of flowering time. Interestingly there is the presence of some "unidentified functional domains within membrane structures" that may warrant further investigation. The loci of interest are ribonuclease T2, TN7, F19G14.4, F13F21.10, and MJB24.15.
 
 ### Identified Loci and Their Implicated Roles
 
@@ -90,10 +90,6 @@ The Kneminer knowledge network offers a comprehensive mapping of genetic interac
 * **F19G14.4**: A locus with unclear implications, yet it is hypothesized to play a role in the regulation of flowering time, a critical factor in plant development and reproduction.
 * **F13F21.10**: Characterized by the presence of a domain of unknown function within the membrane, suggesting a potential role in signal transduction or intracellular transport processes.
 * **MJB24.15**: Like F13F21.10, this locus is distinguished by an unidentified functional domain within the membrane, pointing towards a possible involvement in key cellular activities yet to be elucidated.
-
-### Conclusion
-
-The Kneminer knowledge network serves as a vital tool in unraveling the complex genetic underpinnings of plant phenotypes. The connections between PIT3 and cytokinin-related phenotypes underscore the intricate interplay of genetic factors in plant growth and development. The highlighted loci, despite their current lack of detailed understanding, represent promising areas for future research endeavors. Focusing on these loci could unravel new insights into plant biology, paving the way for advancements in crop production, disease resistance, and stress tolerance.
 
 
 

@@ -4,6 +4,10 @@ description: Genome ontology analysis for molecular function and cellular site.
 
 # Pathway results
 
+
+
+<figure><img src=".gitbook/assets/Slide9 (1).png" alt=""><figcaption></figcaption></figure>
+
 (A)
 
 ![](.gitbook/assets/2.png)
