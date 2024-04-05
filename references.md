@@ -268,3 +268,21 @@ Chew, Y. H., Wenden, B., Flis, A., Mengin, V., Taylor, J., Davey, C. L., Tindal,
 
 Chew, Y. H., Wenden, B., Flis, A., Mengin, V., Taylor, J., Davey, C. L., Tindal, C., Thomas, H., Ougham, H. J., De Reffye, P., Stitt, M., Williams, M., Muetzelfeldt, R., Halliday, K. J., & Millar, A. J. (2014). Multiscale digital _Arabidopsis_ predicts individual organ and whole-organism growth. _Proceedings of the National Academy of Sciences_, _111_(39), E4127-E4136. https://doi.org/10.1073/pnas.1410238111
 
+
+
+**References to clean up.**
+
+The effects of CO2 on growth and transpiration of radish (Raphanus sativus) in hypobaria
+
+The effect of elevated CO2 concentrations on leaf carbohydrate, chlorophyll contents and photosynthesis in radish
+
+Change of photosynthesis and cellular tissue under high CO2 concentration and high temperature in radish.
+
+Controls of biomass partitioning between roots and shoots: Atmospheric CO2 enrichment and the acquisition and allocation of carbon and nitrogen in wild radish
+
+Radish (Raphanus sativa L. cv. Cherry Bomb II) Growth, Net Carbon Exchange Rate, and Transpiration at Decreased Atmospheric Pressure and / or Oxygen
+
+Evaluation of the Effect of Photosynthesis on Biomass Production with Simultaneous Analysis of Growth and Continuous Monitoring of CO2 Exchange in the Whole Plants of Radish, cv Kosena under Ambient and Elevated CO2
+
+
+
