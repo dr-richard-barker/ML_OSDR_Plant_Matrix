@@ -9,7 +9,7 @@
 * [Combined features regulate the plant stress response pathways](combined-features-regulate-the-plant-stress-response-pathways.md)
 * [Results Gene Prioritoisation by Evidence Counting (GPEC)](results-gene-prioritoisation-by-evidence-counting-gpec.md)
 * [Discussion](discussion/README.md)
-  * [Feature 0: Hormonal signal integration through a TOPLESS Regulated](discussion/feature-0-hormonal-signal-integration-through-a-topless-regulated.md)
+  * [Feature 0: Hormonal signal integration through TOPLESS and CPK4](discussion/feature-0-hormonal-signal-integration-through-topless-and-cpk4.md)
   * [Feature #1: “Tissue-specific respiratory adaptation”](discussion/feature-1-tissue-specific-respiratory-adaptation.md)
   * [Feature #2: Premature xylem differentiation.](discussion/feature-2-premature-xylem-differentiation..md)
   * [Feature 7: “Cytokinin regulated RNA processing feature”1](discussion/feature-7-cytokinin-regulated-rna-processing-feature-1.md)
