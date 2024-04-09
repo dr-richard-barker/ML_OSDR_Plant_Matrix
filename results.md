@@ -4,6 +4,10 @@ description: Variation in model performance for different factors
 
 # Results
 
+{% embed url="https://docs.google.com/presentation/d/1vsheLADKKt8ON7QT_WEPYQ-1XR5vbuCX9tojmcJfqKs/edit?usp=sharing" %}
+Here's a slide show summarizing the main JadBio narrative
+{% endembed %}
+
 [Jadbio model performance and results in supplementary table](https://docs.google.com/spreadsheets/d/1f\_0TuJROgpQNYvMKF2Kr69cQbWZGzSNypwZlvdiX5AY/edit?usp=sharing)
 
 **Learning process during analysis:**
