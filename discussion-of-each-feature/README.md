@@ -1,4 +1,4 @@
-# Discussion
+# Discussion of each feature
 
 ### Changes in the cellular and molecular landscape cause by the spaceflight treatment <a href="#c70xw25iwgrq" id="c70xw25iwgrq"></a>
 
@@ -8,12 +8,3 @@ Machine learning has emerged as a powerful tool for analyzing complex biological
 
 Genome ontology terms associated with the ML features were used to broadly define the main multi-loci features while the 3 mono-genetic features and 2 bi-genetic features identified by the JADBio model were defined by the loci’s description and ontological descriptions. The main feature in the matrix known as the “Precision model” is made up of 23 loci that are broadly involved in oxidative phosphorylation, iron binding, and kinase regulation of KEGG pathways. The largest feature, #1, contains 8888 loci and also identifies associations with the tissues and GLDS accession factors. The GLDS accessions are linked to on flight hardware/platform and these choices also often dictate the tissues that can be analyzed. This combined with ontology analysis of the loci (supplementary table xx3) causes us to define feature #1 as a **“**_**tissue specific respiratory adaptation**_**”** group. Cellular site ontology analysis of the second largest feature #6 containing 222 loci which was identified as being enriched for loci associated with the cell to cell junction known as the “_plasmodesmata” (_PD). Analysis of the third largest feature #2 only contains 10 loci, due to GSAD statistical enrichment analysis we refer to this as the **“**_**premature xylem differentiation**_**”** cluster. Feature #7 is associated with 2 loci, _IPT3_ a enzyme involved in cytokinin metabolism and AT1G14210, a ribonuclease T2 family protein known to be involved in RNA cleavage in the secretory vesicle and extracellular region. So we describe this feature #7 as the “_**cytokinin regulated rna processing**” feature._ Feature #3 is also associated with 2 genes, the 1st is _DUF716_, which is a domain of unknown function proteins that is annotated as being involved in the response to light stimulus. The other loci associated with feature #3 is _SAY1_ , a Ubiquitin-like superfamily protein previously shown to be responsive to ionizing radiation (Culligan et al., 2006). So we refer to it as the SAY1 and “_**unknown protein degradation/ response to light in space feature**_”. Feature 0 is “_AT5G57340_” this unnamed gene has been previously shown to interact with a Jasmonic acid signaling gene called _TOPLESS,_ so we refer to feature #0 as the “_**TOPLESS interaction feature**_” and is likely to be a hormonal signaling integration hub. Feature #4 is associated with AT1G72900, this unnamed Toll-Interleukin-Resistance (TIR) domain-containing protein, is annotated as being involved in the “_Cellular response to hypoxia”,_ so we refer to this feature #4 as the _“**unknown response to hypoxia feature**”_. Feature #5 is associated with another poorly understood protein, AT2G15960, that is annotated in being involved in a ‘Nuclear pore interaction” while its RNA levels are decreased in response to proline and increase ammonia, nitrate and urea. So we describe this feature #5 as the metabolic adaptation of the “_**nuclear trafficking”**_ feature.
 
-#### &#x20;<a href="#id-2p6ctfwvp7wf" id="id-2p6ctfwvp7wf"></a>
-
-#### &#x20;<a href="#zhgk0euzqfd" id="zhgk0euzqfd"></a>
-
-#### &#x20;<a href="#fzrurtbmnxnk" id="fzrurtbmnxnk"></a>
-
-#### &#x20;<a href="#ij2ru1mvwz5m" id="ij2ru1mvwz5m"></a>
-
-#### &#x20;<a href="#cp8k6b6kfmmz" id="cp8k6b6kfmmz"></a>
