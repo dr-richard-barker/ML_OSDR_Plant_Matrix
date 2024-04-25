@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Cover Page](README.md)
+* [AWG Action Plan](README.md)
+* [Cover Page](<README (1).md>)
 * [Introduction](introduction.md)
 * [Methods](methods.md)
 * [Results](results.md)
